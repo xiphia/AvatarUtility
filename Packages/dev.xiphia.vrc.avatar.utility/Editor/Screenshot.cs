@@ -72,7 +72,7 @@ namespace XiPHiA.Avatar.Utility.Editor
                 ScreenCapture.CaptureScreenshot(filename);
                 GetGameView().Repaint();
             }
-            Debug.Log("Screenshot has been saved as \"" + filename + "\".");
+            Debug.Log($"Screenshot has been saved as \"{filename}\".");
         }
 
         [MenuItem("AvatarUtil/Screenshot #F12")]
