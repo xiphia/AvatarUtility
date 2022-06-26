@@ -1,0 +1,12 @@
+{
+  "name": "dev.xiphia.vrc.avatar.utility",
+  "displayName": "Avatar Utility",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "description": "Tools for avatar modification",
+  "author": {
+    "name": "XiPHiA",
+    "email": "xiphia.alchemist@gmail.com",
+    "url": "https://github.com/xiphia"
+  }
+}

@@ -80,6 +80,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "dev.xiphia.vrc.avatar.utility": {
+      "version": "file:dev.xiphia.vrc.avatar.utility",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
